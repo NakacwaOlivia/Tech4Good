@@ -1,0 +1,39 @@
+.navbar-collapse {
+    margin-left: 20%;
+}
+
+.img {
+    height: 60vh;
+}
+
+.carousel-caption {
+    bottom: 600px;
+}
+  
+.carousel-caption h5 {
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+}
+  
+.carousel-caption p {
+    width: 75%;
+    margin: auto;
+    font-size: 20px;
+    line-height: 1.9;
+}
+.card{
+    height: 100px;
+}
+h4{
+    text-align: center;
+    justify-content: center;
+    padding: 6px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.cause{
+    background-color: aquamarine;
+}
